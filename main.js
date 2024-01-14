@@ -1,6 +1,6 @@
 
 
-let countdown = new Date("june 16, 2023 09:00:00").getTime();
+let countdown = new Date("january 13, 2024 09:00:00").getTime();
 
 
 
